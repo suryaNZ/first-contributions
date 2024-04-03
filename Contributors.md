@@ -1498,6 +1498,7 @@ Romeu Leite
 - [Alex Terskin] (https://github.com/ATerskin)
 - [Bhargav](https://github.com/thotabhargav123)
 - [Kevin Peng](https://github.com/kpeng66)
+- [Ravi Bhatia](https://github.com/suryanz)🐤
 - [K G Tint Swe](https://github.com/KG6605)
 - [K G Tint Swe](https://github.com/KG6605)
 - [Dithi-Fuzzythinker](https://github.com/fuzzythinker)
